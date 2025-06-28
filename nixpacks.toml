@@ -1,5 +1,0 @@
-[phases.setup]
-nixpkgs = ["python311", "ffmpeg", "gcc"]
-
-[start]
-cmd = "python main.py"
